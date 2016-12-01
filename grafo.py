@@ -360,4 +360,4 @@ print g.arco_masPeso(nodo1,nodo6)
 #prueba 1.2
 print g.ins_subgrafo("A","B","C")
 
-#link : http://www.codeskulptor.org/#user42_loRFNac7gWHlEC3_3.py
+#link : http://www.codeskulptor.org/#user42_loRFNac7gWHlEC3_4.py
